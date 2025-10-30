@@ -175,11 +175,11 @@ This project is open-source under the **MIT License** — free to use, modify, a
 
 ---
 
-## ✨ Author
+## ✨ Team Members
 **Sanjana Nathani**  
-🎓 Data Science & AI Enthusiast | Developer | Researcher  
+🎓 M.Sc. Data Science | DAU, Gandhinagar
 📍 Vadodara, Gujarat, India  
-📧 [YourEmail@example.com](mailto:YourEmail@example.com)
+📧 [sanjananathani06@gmailcom](mailto:sanjananathani06@gmail.com)
 
 ---
 
