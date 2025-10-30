@@ -181,6 +181,16 @@ This project is open-source under the **MIT License** — free to use, modify, a
 📍 Vadodara, Gujarat, India  
 📧 [sanjananathani06@gmailcom](mailto:sanjananathani06@gmail.com)
 
+**Urvi Kava**  
+🎓 M.Sc. Data Science | DAU, Gandhinagar  
+📍 Vadodara, Gujarat, India  
+📧 [urvikawa2004@gmailcom](mailto:urvikawa2004@gmail.com)
+
+**Aditya Jana**  
+🎓 M.Sc. Data Science | DAU, Gandhinagar  
+📍 Vadodara, Gujarat, India  
+📧 [adityajana20.6@gmailcom](mailto:adityajana20.6@gmail.com)
+
 ---
 
 ## 💡 Acknowledgments
