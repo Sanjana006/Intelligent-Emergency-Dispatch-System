@@ -177,7 +177,7 @@ This project is open-source under the **MIT License** — free to use, modify, a
 
 ## ✨ Team Members
 **Sanjana Nathani**  
-🎓 M.Sc. Data Science | DAU, Gandhinagar 
+🎓 M.Sc. Data Science | DAU, Gandhinagar |
 📍 Vadodara, Gujarat, India  
 📧 [sanjananathani06@gmailcom](mailto:sanjananathani06@gmail.com)
 
