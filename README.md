@@ -143,25 +143,26 @@ Represents real-time or simulated dynamic traffic variations in the city.
 ---
 
 ## 📁 Repository Structure
+```bash
 Intelligent-Emergency-Dispatch-System/
 │
 ├── data/
-│ ├── city_nodes.csv
-│ ├── city_edges.csv
-│ ├── ambulance_locations.csv
-│ ├── emergency_requests.csv
-│ ├── hospital_data.csv
-│ └── traffic_conditions.csv
+│   ├── city_nodes.csv
+│   ├── city_edges.csv
+│   ├── ambulance_locations.csv
+│   ├── emergency_requests.csv
+│   ├── hospital_data.csv
+│   └── traffic_conditions.csv
 │
 ├── src/
-│ ├── version_A_dijkstra.py
-│ ├── version_B_multi_source.py
-│ ├── version_C_kd_tree.py
-│ └── utils.py
+│   ├── version_A_dijkstra.py
+│   ├── version_B_multi_source.py
+│   ├── version_C_kd_tree.py
+│   └── utils.py
 │
 ├── results/
-│ ├── runtime_comparison.csv
-│ └── response_time_analysis.png
+│   ├── runtime_comparison.csv
+│   └── response_time_analysis.png
 │
 ├── README.md
 └── requirements.txt
