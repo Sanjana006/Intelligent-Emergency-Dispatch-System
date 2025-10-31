@@ -167,6 +167,47 @@ Intelligent-Emergency-Dispatch-System/
 ├── README.md
 └── requirements.txt
 ```
+---
+
+## 🧩 Developer Workflow & Setup
+
+### 🧱 Branches
+- **main** → stable, tested code  
+- **dev** → integration branch for testing all versions  
+- **aditya**, **urvi**, **sanjana** → personal working branches  
+
+### ⚙️ Setup Instructions
+1. Clone repository:
+   ```bash
+   git clone <repo_url>
+   cd Intelligent-Emergency-Dispatch-System
+---
+
+---
+## Create virtual environment:
+python -m venv venv
+source venv/bin/activate     # macOS/Linux
+venv\Scripts\activate        # Windows
+
+---
+
+## Install dependencies:
+pip install -r requirements.txt
+
+---
+
+Run your version:
+python src/version_A_dijkstra.py
+ or version_B_multi_source.py / version_C_kd_tree.py
+
+---
+
+Push workflow:
+
+git checkout aditya
+git add .
+git commit -m "Implemented Dijkstra version"
+git push origin aditya
 
 ---
 
@@ -174,7 +215,6 @@ Intelligent-Emergency-Dispatch-System/
 This project is open-source under the **MIT License** — free to use, modify, and distribute with attribution.
 
 ---
-
 ## ✨ Team Members
 **Sanjana Nathani**  
 🎓 M.Sc. Data Science | DAU, Gandhinagar  
