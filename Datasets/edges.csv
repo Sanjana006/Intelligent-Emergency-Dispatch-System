@@ -1,0 +1,479 @@
+edge_id,source_node,destination_node,distance_km,travel_time_min,is_bidirectional,road_type
+0,81,14,1.98,2.96,True,Main Road
+1,94,35,4.17,5.37,True,Main Road
+2,28,17,6.46,14.58,True,Highway
+3,13,86,3.93,5.03,True,Highway
+4,114,69,5.18,5.65,True,Main Road
+5,75,54,6.69,13.07,True,Main Road
+6,3,11,0.98,1.24,True,Main Road
+7,29,64,0.56,0.74,True,Highway
+8,3,71,9.42,12.52,True,Main Road
+9,91,83,4.07,5.14,True,Highway
+10,69,53,4.75,6.46,True,Main Road
+11,57,75,9.43,14.69,True,Street
+12,103,111,9.62,10.18,True,Main Road
+13,97,103,2.2,4.81,True,Main Road
+14,89,54,1.28,3.0,True,Street
+15,35,19,1.22,1.5,True,Main Road
+16,97,43,0.99,1.64,True,Main Road
+17,11,48,8.5,19.76,True,Main Road
+18,45,108,8.2,14.11,True,Street
+19,77,33,1.45,1.76,True,Main Road
+20,93,58,6.4,6.89,True,Highway
+21,15,118,7.43,8.39,True,Street
+22,10,70,3.04,5.84,True,Street
+23,106,80,7.58,8.54,True,Highway
+24,113,110,9.91,15.08,True,Street
+25,73,24,3.91,4.5,True,Highway
+26,8,5,3.61,3.76,True,Highway
+27,29,98,8.63,12.94,True,Street
+28,10,109,7.58,8.85,True,Main Road
+29,110,12,1.3,1.38,True,Street
+30,35,58,5.2,5.79,True,Highway
+31,106,46,3.4,3.62,True,Main Road
+32,47,45,4.08,9.65,True,Main Road
+33,85,34,9.08,19.32,True,Highway
+34,119,87,3.4,3.5,True,Highway
+35,9,77,9.52,12.67,True,Highway
+36,21,68,6.43,9.48,True,Highway
+37,31,20,3.14,5.16,True,Street
+38,48,34,6.82,7.97,True,Highway
+39,88,71,7.98,9.1,True,Main Road
+40,87,41,1.18,1.67,True,Main Road
+41,29,105,0.86,1.17,True,Main Road
+42,103,40,4.58,4.9,True,Street
+43,34,8,3.7,7.63,True,Main Road
+44,116,72,1.69,1.96,True,Highway
+45,40,27,6.3,13.24,True,Highway
+46,63,50,1.12,1.36,True,Highway
+47,58,18,1.01,1.13,True,Street
+48,17,31,7.15,15.41,True,Highway
+49,71,68,1.12,1.13,True,Street
+50,95,74,3.93,6.21,True,Street
+51,114,74,8.18,8.44,True,Street
+52,46,28,9.86,11.52,True,Main Road
+53,65,63,3.95,8.49,True,Main Road
+54,96,6,7.84,10.56,True,Main Road
+55,19,80,4.41,4.66,True,Main Road
+56,101,87,1.38,1.96,True,Street
+57,76,8,0.41,0.59,True,Street
+58,48,76,0.85,1.75,True,Street
+59,67,32,1.44,1.81,True,Highway
+60,110,1,7.54,9.96,True,Highway
+61,92,14,9.63,15.16,True,Highway
+62,113,68,3.07,3.32,True,Street
+63,98,82,2.47,2.52,True,Street
+64,14,37,0.42,0.43,True,Street
+65,20,58,0.72,0.77,True,Main Road
+66,92,112,5.42,5.44,True,Highway
+67,33,64,1.02,1.38,True,Main Road
+68,64,116,9.7,13.44,True,Main Road
+69,111,80,6.41,7.79,True,Street
+70,107,81,4.71,6.02,True,Highway
+71,77,25,5.97,6.34,True,Main Road
+72,47,97,0.74,1.27,True,Main Road
+73,69,99,9.52,10.17,True,Highway
+74,117,0,4.72,6.06,True,Highway
+75,41,62,2.99,5.68,True,Main Road
+76,14,118,4.8,7.71,True,Street
+77,112,106,5.96,12.9,True,Street
+78,30,7,9.75,9.83,True,Main Road
+79,112,72,7.07,9.69,True,Main Road
+80,10,93,3.3,3.7,True,Street
+81,104,8,6.94,13.57,True,Highway
+82,98,16,9.14,10.2,True,Main Road
+83,84,60,9.51,11.32,True,Highway
+84,21,33,6.25,9.46,True,Highway
+85,111,77,9.35,10.14,True,Street
+86,27,118,0.74,1.71,True,Highway
+87,96,93,3.95,4.44,True,Highway
+88,25,91,9.88,19.59,True,Street
+89,51,85,6.06,9.49,True,Highway
+90,47,56,9.71,10.69,True,Highway
+91,57,15,8.43,12.22,True,Main Road
+92,28,8,4.32,7.5,True,Street
+93,2,75,0.85,0.92,True,Highway
+94,29,75,8.19,8.19,True,Main Road
+95,0,9,9.97,13.46,True,Highway
+96,80,7,7.76,8.02,True,Main Road
+97,8,115,8.54,15.22,True,Main Road
+98,110,42,4.67,9.49,True,Main Road
+99,65,30,9.55,12.4,True,Street
+100,85,62,2.52,3.12,True,Main Road
+101,69,16,6.3,10.07,True,Highway
+102,119,112,1.4,1.73,True,Highway
+103,73,60,5.35,6.17,True,Main Road
+104,100,60,5.35,5.85,True,Street
+105,24,12,5.65,7.6,True,Main Road
+106,84,55,8.8,13.5,True,Street
+107,54,52,1.6,3.69,True,Street
+108,110,93,7.62,9.79,True,Main Road
+109,86,83,7.13,13.18,True,Highway
+110,12,7,1.62,3.81,True,Street
+111,93,43,3.7,4.86,True,Main Road
+112,31,24,4.1,6.1,True,Main Road
+113,68,57,9.07,14.63,True,Main Road
+114,54,23,5.29,6.05,True,Street
+115,59,31,4.15,5.32,True,Main Road
+116,56,103,8.66,8.92,True,Highway
+117,12,6,1.73,1.81,True,Highway
+118,69,107,5.07,8.94,True,Main Road
+119,11,118,4.75,4.81,True,Main Road
+120,21,52,5.08,8.35,True,Street
+121,61,27,6.44,11.57,True,Street
+122,115,7,1.04,2.11,True,Main Road
+123,48,0,1.54,3.05,True,Street
+124,33,118,1.65,2.09,True,Street
+125,36,54,2.06,3.33,True,Highway
+126,93,100,9.0,12.98,True,Highway
+127,84,91,6.78,13.11,True,Street
+128,19,24,2.17,4.93,True,Street
+129,27,7,1.94,3.35,True,Highway
+130,94,69,2.02,4.31,True,Main Road
+131,95,40,1.47,2.14,True,Main Road
+132,6,74,2.3,3.66,True,Street
+133,64,117,5.18,6.32,True,Highway
+134,20,7,0.68,0.77,True,Highway
+135,10,108,6.39,13.76,True,Main Road
+136,8,76,8.77,9.19,True,Main Road
+137,86,110,0.89,1.54,True,Main Road
+138,51,15,8.12,9.52,True,Highway
+139,31,74,2.09,3.88,True,Highway
+140,5,79,3.89,5.56,True,Main Road
+141,53,84,6.3,9.97,True,Highway
+142,72,66,4.79,5.62,True,Street
+143,119,33,0.66,1.17,True,Main Road
+144,85,91,7.22,7.69,True,Street
+145,30,33,5.26,7.23,True,Street
+146,16,85,1.34,1.98,True,Highway
+147,38,58,5.47,9.8,True,Street
+148,118,96,2.91,4.57,True,Main Road
+149,1,58,0.49,0.81,True,Highway
+150,72,12,2.35,3.87,True,Main Road
+151,68,27,1.46,1.56,True,Highway
+152,33,16,6.06,7.46,True,Street
+153,112,8,7.95,11.24,True,Main Road
+154,47,36,1.14,1.56,True,Main Road
+155,56,106,5.99,7.03,True,Highway
+156,90,38,4.49,9.14,True,Highway
+157,103,83,3.05,4.85,True,Highway
+158,1,85,6.57,8.76,True,Highway
+159,38,119,3.75,3.78,True,Highway
+160,13,112,6.18,11.13,True,Main Road
+161,33,14,1.29,2.55,True,Main Road
+162,95,70,2.69,5.27,True,Main Road
+163,34,36,2.11,3.62,True,Highway
+164,26,91,1.98,2.11,True,Street
+165,26,87,1.08,1.49,True,Highway
+166,109,33,4.28,4.32,True,Highway
+167,62,32,1.39,2.14,True,Main Road
+168,11,81,9.7,10.53,True,Street
+169,106,35,8.23,14.51,True,Main Road
+170,0,42,1.96,2.43,True,Main Road
+171,81,33,9.31,12.56,True,Main Road
+172,94,56,5.84,10.07,True,Highway
+173,90,54,7.76,14.76,True,Highway
+174,1,14,3.44,5.17,True,Main Road
+175,113,88,5.22,9.35,True,Main Road
+176,69,4,1.41,1.82,True,Street
+177,74,70,3.1,4.1,True,Main Road
+178,55,16,1.8,2.58,True,Main Road
+179,39,46,5.47,12.24,True,Main Road
+180,115,45,3.57,7.21,True,Main Road
+181,87,31,0.91,0.92,True,Highway
+182,13,45,3.43,3.86,True,Highway
+183,113,111,2.77,3.4,True,Street
+184,79,95,7.67,10.04,True,Main Road
+185,118,119,4.87,7.41,True,Main Road
+186,110,20,3.68,3.84,True,Main Road
+187,112,52,8.36,8.53,True,Main Road
+188,22,94,1.51,1.79,True,Street
+189,100,119,9.4,17.99,True,Street
+190,102,85,0.95,1.12,True,Highway
+191,103,31,5.87,6.47,True,Street
+192,20,100,1.66,1.89,True,Highway
+193,13,48,2.26,4.41,True,Main Road
+194,109,60,1.89,2.12,True,Main Road
+195,25,104,6.75,9.35,True,Street
+196,44,39,3.78,4.07,True,Main Road
+197,28,3,4.11,4.6,True,Highway
+198,24,51,4.56,7.16,True,Street
+199,35,110,4.79,8.08,True,Main Road
+200,98,35,7.55,10.63,True,Street
+201,82,65,2.55,2.71,True,Street
+202,86,107,4.02,5.48,True,Highway
+203,42,3,9.09,11.64,True,Main Road
+204,112,33,1.43,1.48,True,Main Road
+205,74,33,6.39,10.44,True,Main Road
+206,13,76,1.65,1.88,True,Street
+207,44,93,6.31,8.67,True,Street
+208,55,77,8.97,10.23,True,Highway
+209,14,49,1.77,2.96,True,Highway
+210,24,32,2.71,3.19,True,Main Road
+211,90,55,0.63,0.84,True,Main Road
+212,66,118,7.7,8.3,True,Highway
+213,87,92,3.62,4.04,True,Highway
+214,94,85,1.37,1.5,True,Main Road
+215,46,55,1.54,2.38,True,Main Road
+216,85,117,8.03,15.93,True,Street
+217,79,40,2.52,3.01,True,Highway
+218,108,15,7.28,9.21,True,Highway
+219,115,38,7.03,9.59,True,Highway
+220,39,85,2.74,4.43,True,Street
+221,41,51,2.06,2.18,True,Highway
+222,37,70,5.96,9.16,True,Main Road
+223,24,53,4.78,4.93,True,Highway
+224,48,86,1.79,2.36,True,Highway
+225,115,22,5.21,6.74,True,Highway
+226,72,38,0.48,0.52,True,Street
+227,70,106,9.34,12.51,True,Main Road
+228,38,36,7.06,7.39,True,Main Road
+229,55,100,7.16,14.16,True,Highway
+230,77,83,5.89,7.64,True,Street
+231,59,56,4.41,5.21,True,Street
+232,86,27,9.36,9.78,True,Highway
+233,60,101,4.67,9.67,True,Highway
+234,21,84,9.85,10.87,True,Main Road
+235,36,65,1.51,1.58,True,Highway
+236,81,79,8.74,12.15,True,Street
+237,11,104,6.04,9.3,True,Main Road
+238,86,39,0.83,1.36,True,Main Road
+239,103,25,8.09,19.29,True,Main Road
+240,3,5,3.53,5.44,True,Main Road
+241,60,78,5.51,5.78,True,Main Road
+242,58,53,3.66,5.91,True,Highway
+243,73,24,7.45,10.95,True,Highway
+244,89,49,2.48,3.64,True,Street
+245,51,31,1.67,3.21,True,Main Road
+246,83,88,5.13,7.76,True,Main Road
+247,114,96,9.17,14.6,True,Main Road
+248,99,54,5.93,7.55,True,Main Road
+249,22,102,0.43,0.54,True,Highway
+250,66,59,2.03,2.08,True,Main Road
+251,71,31,1.74,2.64,True,Main Road
+252,58,17,1.13,1.13,True,Street
+253,85,67,5.17,6.77,True,Highway
+254,76,40,0.95,1.11,True,Street
+255,78,104,2.34,2.49,True,Highway
+256,114,64,2.29,4.34,True,Street
+257,106,116,0.65,0.94,True,Highway
+258,57,114,5.78,12.7,True,Main Road
+259,95,110,7.82,11.48,True,Street
+260,57,33,5.39,8.0,True,Main Road
+261,107,81,4.19,5.64,True,Street
+262,98,99,1.81,3.46,True,Highway
+263,62,80,8.66,8.94,True,Main Road
+264,35,56,3.92,6.82,True,Main Road
+265,91,36,6.55,10.0,True,Main Road
+266,34,42,0.55,1.08,True,Street
+267,114,69,7.24,9.04,True,Main Road
+268,17,19,0.56,1.03,True,Main Road
+269,49,88,2.54,3.14,True,Main Road
+270,90,27,0.49,1.03,True,Main Road
+271,53,52,8.06,15.48,True,Street
+272,69,59,6.63,11.93,True,Street
+273,7,26,1.26,2.26,True,Street
+274,49,115,7.31,7.98,True,Highway
+275,89,2,8.35,12.88,True,Highway
+276,48,61,6.78,12.64,True,Main Road
+277,45,38,3.14,3.34,True,Street
+278,109,114,0.43,0.92,True,Street
+279,68,95,2.32,5.37,True,Highway
+280,69,102,2.06,2.72,True,Highway
+281,114,28,4.39,4.68,True,Street
+282,28,34,8.23,13.36,True,Street
+283,62,3,2.82,4.42,True,Street
+284,43,85,6.03,10.52,True,Highway
+285,102,51,6.35,9.69,True,Highway
+286,21,107,5.65,8.42,True,Street
+287,117,16,3.16,3.26,True,Highway
+288,68,3,7.71,15.47,True,Street
+289,75,72,8.72,12.44,True,Highway
+290,3,10,8.98,10.17,True,Highway
+291,54,17,4.42,10.28,True,Street
+292,23,6,2.91,3.97,True,Street
+293,48,41,6.44,11.36,True,Main Road
+294,58,41,1.65,1.83,True,Street
+295,97,112,9.85,13.62,True,Street
+296,35,96,1.97,3.42,True,Street
+297,32,106,0.48,0.51,True,Main Road
+298,60,2,1.44,1.91,True,Highway
+299,69,6,2.96,4.0,True,Street
+300,28,83,6.62,7.35,True,Main Road
+301,99,83,2.3,5.44,True,Main Road
+302,96,3,1.63,1.73,True,Main Road
+303,25,107,8.78,11.47,True,Main Road
+304,79,19,6.13,7.62,True,Main Road
+305,16,60,2.0,2.11,True,Highway
+306,14,72,4.36,6.81,True,Main Road
+307,59,89,5.33,12.0,True,Street
+308,98,47,1.91,2.25,True,Main Road
+310,95,91,1.1,1.43,True,Main Road
+311,99,104,2.68,4.16,True,Main Road
+312,39,13,3.1,4.97,True,Highway
+313,3,118,7.27,12.32,True,Street
+314,73,86,5.79,8.34,True,Street
+315,50,91,6.74,7.0,True,Main Road
+316,9,75,7.41,13.67,True,Highway
+317,106,80,0.6,1.05,True,Main Road
+318,13,89,6.07,13.59,True,Street
+319,108,87,5.11,6.68,True,Highway
+320,103,15,3.54,4.09,True,Highway
+321,100,5,1.33,2.89,True,Street
+322,68,54,7.36,10.43,True,Highway
+323,47,8,6.98,10.41,True,Highway
+324,82,43,2.69,3.01,True,Main Road
+325,108,53,8.05,9.79,True,Street
+326,13,55,2.94,3.86,True,Street
+327,81,114,3.8,8.08,True,Street
+328,90,19,9.2,18.53,True,Street
+329,22,93,9.52,14.07,True,Highway
+330,83,34,2.1,2.87,True,Highway
+331,103,117,8.77,10.39,True,Highway
+332,99,61,8.12,10.14,True,Street
+333,55,105,7.02,7.7,True,Highway
+334,75,34,2.72,3.87,True,Street
+335,109,31,2.45,2.47,True,Main Road
+336,35,112,9.46,21.52,True,Street
+337,31,96,7.14,7.47,True,Street
+338,72,78,2.05,2.74,True,Highway
+339,48,43,9.18,21.03,True,Main Road
+340,63,108,7.06,11.96,True,Street
+341,23,62,9.27,9.43,True,Main Road
+342,45,102,9.46,13.65,True,Street
+343,43,35,8.66,9.52,True,Highway
+344,89,112,3.4,3.78,True,Street
+345,71,1,0.66,0.86,True,Highway
+346,24,10,2.53,5.2,True,Main Road
+347,92,52,1.05,1.28,True,Street
+348,71,97,3.6,4.29,True,Main Road
+349,88,60,0.93,1.55,True,Highway
+350,91,62,5.53,6.3,True,Street
+351,101,2,3.39,4.34,True,Main Road
+352,37,28,8.89,11.46,True,Street
+353,88,31,2.56,5.94,True,Street
+354,84,74,8.74,20.37,True,Street
+355,60,70,8.78,12.11,True,Highway
+356,44,54,9.41,10.66,True,Highway
+357,70,42,9.98,16.06,True,Street
+358,89,58,7.74,11.89,True,Street
+359,39,32,4.95,6.32,True,Main Road
+360,15,92,8.77,8.85,True,Main Road
+361,40,15,7.75,11.74,True,Highway
+362,68,97,4.39,5.18,True,Highway
+363,23,24,2.62,5.45,True,Main Road
+364,94,61,3.74,6.4,True,Street
+365,92,75,3.17,5.73,True,Highway
+366,76,36,0.71,1.66,True,Main Road
+367,106,24,9.88,14.83,True,Street
+368,29,46,4.03,4.96,True,Main Road
+369,38,1,2.42,2.49,True,Highway
+370,68,16,7.93,16.91,True,Street
+371,5,6,4.35,4.68,True,Highway
+372,37,89,9.46,13.72,True,Main Road
+373,81,111,6.25,12.16,True,Street
+374,13,111,9.91,17.96,True,Main Road
+375,73,36,9.44,11.86,True,Street
+376,61,56,6.2,8.66,True,Street
+377,23,6,2.54,4.89,True,Street
+378,110,61,2.44,4.64,True,Main Road
+379,105,8,7.86,12.66,True,Street
+380,62,9,0.86,0.88,True,Highway
+381,80,87,8.87,9.26,True,Main Road
+383,103,72,9.95,19.2,True,Street
+384,10,31,4.14,4.82,True,Main Road
+385,71,97,7.05,13.92,True,Street
+386,77,76,8.21,14.99,True,Highway
+387,28,99,2.47,3.38,True,Highway
+388,48,57,6.05,8.01,True,Street
+389,38,110,1.19,1.28,True,Highway
+390,54,39,2.88,5.85,True,Highway
+391,79,7,8.92,9.16,True,Highway
+392,94,12,8.66,9.74,True,Main Road
+393,80,27,6.66,9.02,True,Street
+394,84,10,1.14,1.74,True,Main Road
+395,30,22,3.92,6.9,True,Highway
+396,9,20,7.32,10.37,True,Main Road
+397,52,57,1.09,2.0,True,Highway
+398,76,60,6.93,15.03,True,Street
+399,4,29,8.56,12.13,True,Street
+400,90,36,4.96,6.51,True,Highway
+401,110,58,8.3,13.4,True,Main Road
+402,87,29,6.88,9.21,True,Street
+403,100,101,2.89,3.11,True,Highway
+404,75,84,8.04,10.04,True,Main Road
+405,54,14,8.55,9.27,True,Highway
+406,28,82,7.17,7.92,True,Main Road
+407,116,34,7.07,8.69,True,Main Road
+408,9,7,6.3,7.36,True,Main Road
+409,101,39,1.84,1.98,True,Highway
+410,95,105,8.76,20.2,True,Highway
+411,117,36,8.31,16.9,True,Street
+412,15,59,3.55,4.17,True,Highway
+413,38,89,1.86,2.08,True,Street
+414,34,64,8.37,11.74,True,Highway
+415,63,56,0.36,0.62,True,Main Road
+416,76,5,6.28,6.35,True,Street
+417,94,41,6.43,11.32,True,Highway
+418,32,3,6.45,8.82,True,Main Road
+419,29,86,7.86,16.41,True,Highway
+420,75,2,7.68,10.49,True,Highway
+421,105,34,9.64,15.65,True,Highway
+422,5,97,6.44,6.71,True,Main Road
+423,60,66,1.29,1.34,True,Highway
+424,56,117,6.97,15.28,True,Street
+425,23,74,3.22,3.88,True,Street
+426,81,104,0.95,1.26,True,Street
+427,11,60,3.66,4.7,True,Street
+428,52,42,0.74,0.8,True,Street
+429,85,13,9.74,9.92,True,Main Road
+430,42,52,7.57,15.37,True,Highway
+431,63,36,7.66,17.77,True,Highway
+432,51,104,0.51,0.84,True,Highway
+433,4,58,5.04,5.82,True,Main Road
+434,40,32,6.93,10.24,True,Street
+435,14,98,2.95,2.95,True,Street
+436,110,65,4.43,6.51,True,Main Road
+437,84,111,1.89,2.15,True,Highway
+438,59,52,7.03,12.89,True,Main Road
+439,24,66,1.1,1.35,True,Street
+440,79,96,6.65,11.54,True,Street
+441,80,56,9.52,18.86,True,Main Road
+442,26,34,4.49,4.64,True,Highway
+443,16,118,4.37,5.54,True,Street
+444,56,112,4.16,7.21,True,Highway
+445,62,15,9.84,15.01,True,Main Road
+446,80,77,8.97,16.29,True,Main Road
+447,90,20,2.37,5.45,True,Street
+448,70,1,6.62,10.48,True,Highway
+449,52,11,8.68,12.53,True,Main Road
+450,107,116,9.69,18.46,True,Main Road
+451,59,15,8.73,10.04,True,Highway
+452,106,19,7.78,8.55,True,Street
+453,119,91,7.68,9.82,True,Street
+454,65,90,1.57,3.6,True,Street
+455,53,106,9.23,11.89,True,Street
+456,60,31,8.03,11.51,True,Street
+457,70,18,1.44,2.94,True,Street
+458,24,117,6.95,10.41,True,Highway
+459,65,95,2.25,3.2,True,Main Road
+460,110,8,0.92,1.22,True,Street
+461,98,101,2.91,3.3,True,Street
+462,43,119,3.31,4.85,True,Highway
+463,34,105,0.41,0.89,True,Main Road
+464,36,92,4.11,5.9,True,Street
+465,107,75,6.12,10.43,True,Highway
+466,84,62,7.04,7.67,True,Main Road
+467,57,68,7.86,17.87,True,Street
+468,44,42,4.96,10.38,True,Highway
+469,97,69,2.65,2.67,True,Street
+470,58,119,1.68,2.37,True,Street
+471,111,24,6.3,7.62,True,Highway
+472,30,73,5.73,13.57,True,Street
+473,29,109,3.47,4.83,True,Street
+474,5,40,1.15,1.85,True,Highway
+475,60,90,0.62,1.34,True,Street
+476,49,84,4.15,8.4,True,Highway
+477,19,63,5.81,7.1,True,Main Road
+478,16,64,8.07,15.13,True,Highway
+479,42,111,1.92,4.02,True,Main Road
