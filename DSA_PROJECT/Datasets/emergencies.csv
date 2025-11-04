@@ -1,0 +1,501 @@
+emergency_id,timestamp,location_node,urgency_level,response_deadline_min,reported_by,emergency_type
+0,2025-01-21 00:55:00,67,Critical,8,Hospital,Cardiac Arrest
+1,2025-01-07 13:27:00,111,Low,40,Police Control Room,Accident
+2,2025-01-04 09:43:00,100,Low,40,Hospital,Fire Injury
+3,2025-01-29 08:45:00,83,Low,40,Citizen,Fire Injury
+4,2025-01-25 06:51:00,40,Low,40,Police Control Room,Stroke
+5,2025-01-25 14:56:00,79,Critical,8,Citizen,Accident
+6,2025-01-29 17:23:00,29,Moderate,25,Police Control Room,Cardiac Arrest
+7,2025-01-20 18:00:00,97,Critical,8,Police Control Room,Cardiac Arrest
+8,2025-01-21 04:36:00,88,High,15,Hospital,Cardiac Arrest
+9,2025-01-03 02:14:00,101,Moderate,25,Citizen,Fire Injury
+10,2025-01-17 07:32:00,55,Moderate,25,Citizen,Accident
+11,2025-01-25 04:10:00,72,Low,40,Police Control Room,Accident
+12,2025-01-08 17:40:00,10,High,15,Police Control Room,Stroke
+13,2025-01-29 04:53:00,63,High,15,Police Control Room,Accident
+14,2025-01-11 13:36:00,81,Low,40,Hospital,Stroke
+15,2025-01-12 14:53:00,115,Critical,8,Hospital,Fire Injury
+16,2025-01-25 21:01:00,9,High,15,Hospital,Fire Injury
+17,2025-01-27 17:47:00,81,Moderate,25,Hospital,Fire Injury
+18,2025-01-21 18:59:00,25,Moderate,25,Hospital,Stroke
+19,2025-01-05 20:29:00,48,High,15,Police Control Room,Fire Injury
+20,2025-01-27 03:50:00,89,Moderate,25,Hospital,Cardiac Arrest
+21,2025-01-30 22:57:00,35,Low,40,Citizen,Fracture
+22,2025-01-03 05:34:00,106,Low,40,Hospital,Accident
+23,2025-01-28 15:04:00,28,Moderate,25,Police Control Room,Accident
+24,2025-01-29 06:10:00,86,Moderate,25,Police Control Room,Accident
+25,2025-01-29 14:12:00,115,Critical,8,Police Control Room,Cardiac Arrest
+26,2025-01-15 01:26:00,4,Low,40,Police Control Room,Fire Injury
+27,2025-01-06 23:32:00,116,Critical,8,Hospital,Fire Injury
+28,2025-01-19 21:50:00,25,High,15,Citizen,Fracture
+29,2025-01-17 15:36:00,106,Moderate,25,Citizen,Fire Injury
+30,2025-01-22 22:18:00,95,Moderate,25,Hospital,Cardiac Arrest
+31,2025-01-22 07:32:00,18,Critical,8,Citizen,Stroke
+32,2025-01-26 08:44:00,11,Moderate,25,Hospital,Cardiac Arrest
+33,2025-01-13 00:51:00,58,Critical,8,Hospital,Fire Injury
+34,2025-01-27 14:29:00,105,Low,40,Police Control Room,Fire Injury
+35,2025-01-05 22:20:00,60,High,15,Citizen,Fracture
+36,2025-01-26 13:12:00,117,Moderate,25,Police Control Room,Accident
+37,2025-01-30 11:24:00,81,Critical,8,Hospital,Fire Injury
+38,2025-01-30 13:08:00,14,Low,40,Citizen,Cardiac Arrest
+39,2025-01-02 16:38:00,63,Moderate,25,Citizen,Cardiac Arrest
+40,2025-01-11 16:27:00,49,High,15,Hospital,Fire Injury
+41,2025-01-25 14:02:00,75,Low,40,Police Control Room,Accident
+42,2025-01-19 21:09:00,106,Critical,8,Hospital,Fracture
+43,2025-01-19 13:46:00,4,Moderate,25,Police Control Room,Fire Injury
+44,2025-01-10 21:18:00,56,Low,40,Citizen,Fire Injury
+45,2025-01-05 12:31:00,69,Moderate,25,Police Control Room,Fire Injury
+46,2025-01-03 18:08:00,35,Low,40,Citizen,Cardiac Arrest
+47,2025-01-21 16:40:00,84,Critical,8,Citizen,Fracture
+48,2025-01-01 23:19:00,100,Critical,8,Hospital,Accident
+49,2025-01-06 17:32:00,8,High,15,Police Control Room,Accident
+50,2025-01-27 16:29:00,104,High,15,Citizen,Fire Injury
+51,2025-01-07 17:10:00,35,Critical,8,Citizen,Accident
+52,2025-01-25 14:03:00,102,Moderate,25,Citizen,Cardiac Arrest
+53,2025-01-02 04:09:00,1,High,15,Hospital,Accident
+54,2025-01-27 19:11:00,2,Moderate,25,Citizen,Fire Injury
+55,2025-01-03 09:14:00,94,High,15,Hospital,Fracture
+56,2025-01-06 04:08:00,60,Critical,8,Hospital,Fire Injury
+57,2025-01-24 08:35:00,57,Critical,8,Police Control Room,Accident
+58,2025-01-28 23:51:00,93,Critical,8,Police Control Room,Fracture
+59,2025-01-14 17:27:00,82,Low,40,Citizen,Cardiac Arrest
+60,2025-01-22 19:10:00,54,Low,40,Police Control Room,Cardiac Arrest
+61,2025-01-23 07:30:00,9,Low,40,Citizen,Fire Injury
+62,2025-01-28 16:25:00,8,High,15,Citizen,Fire Injury
+63,2025-01-29 09:55:00,48,Moderate,25,Police Control Room,Fracture
+64,2025-01-14 10:06:00,64,Low,40,Police Control Room,Stroke
+65,2025-01-05 12:19:00,109,Critical,8,Police Control Room,Fracture
+66,2025-01-10 18:51:00,57,Low,40,Citizen,Stroke
+67,2025-01-16 10:12:00,51,Low,40,Hospital,Cardiac Arrest
+68,2025-01-15 05:23:00,40,Low,40,Police Control Room,Fire Injury
+69,2025-01-18 00:50:00,87,High,15,Hospital,Cardiac Arrest
+70,2025-01-05 03:38:00,11,Critical,8,Hospital,Cardiac Arrest
+71,2025-01-17 23:01:00,71,High,15,Citizen,Fracture
+72,2025-01-26 13:24:00,85,Moderate,25,Citizen,Stroke
+73,2025-01-17 02:13:00,111,Low,40,Police Control Room,Cardiac Arrest
+74,2025-01-14 02:10:00,45,Moderate,25,Citizen,Fracture
+75,2025-01-24 02:13:00,19,High,15,Police Control Room,Stroke
+76,2025-01-11 04:56:00,44,Critical,8,Police Control Room,Fire Injury
+77,2025-01-06 05:29:00,73,Moderate,25,Citizen,Stroke
+78,2025-01-26 12:43:00,77,Critical,8,Police Control Room,Fire Injury
+79,2025-01-02 07:37:00,34,High,15,Police Control Room,Fire Injury
+80,2025-01-16 11:10:00,0,Moderate,25,Citizen,Accident
+81,2025-01-26 18:34:00,8,Low,40,Citizen,Cardiac Arrest
+82,2025-01-05 04:13:00,48,High,15,Hospital,Stroke
+83,2025-01-16 12:20:00,47,High,15,Hospital,Fire Injury
+84,2025-01-26 19:57:00,113,Critical,8,Citizen,Accident
+85,2025-01-08 03:56:00,86,Critical,8,Citizen,Fire Injury
+86,2025-01-21 03:59:00,62,Low,40,Police Control Room,Stroke
+87,2025-01-19 20:23:00,27,Moderate,25,Police Control Room,Cardiac Arrest
+88,2025-01-16 17:01:00,14,Low,40,Hospital,Fracture
+89,2025-01-23 03:31:00,5,Moderate,25,Citizen,Stroke
+90,2025-01-28 06:37:00,0,Critical,8,Citizen,Fire Injury
+91,2025-01-10 14:43:00,97,High,15,Hospital,Fire Injury
+92,2025-01-15 22:23:00,0,Critical,8,Hospital,Stroke
+93,2025-01-08 23:54:00,48,High,15,Police Control Room,Accident
+94,2025-01-23 18:25:00,9,Moderate,25,Hospital,Cardiac Arrest
+95,2025-01-20 20:28:00,58,Critical,8,Citizen,Fire Injury
+96,2025-01-27 04:52:00,73,Low,40,Hospital,Stroke
+97,2025-01-14 04:13:00,51,Critical,8,Citizen,Fire Injury
+98,2025-01-08 19:43:00,106,Low,40,Police Control Room,Fire Injury
+99,2025-01-05 00:15:00,108,Low,40,Citizen,Accident
+100,2025-01-20 19:52:00,67,Low,40,Citizen,Stroke
+101,2025-01-15 02:54:00,28,Moderate,25,Hospital,Accident
+102,2025-01-04 11:25:00,67,Critical,8,Police Control Room,Accident
+103,2025-01-16 21:36:00,93,Moderate,25,Police Control Room,Accident
+104,2025-01-11 18:04:00,18,Critical,8,Hospital,Accident
+105,2025-01-08 21:30:00,97,High,15,Police Control Room,Cardiac Arrest
+106,2025-01-09 01:29:00,59,Low,40,Police Control Room,Fracture
+107,2025-01-21 10:19:00,110,Moderate,25,Police Control Room,Fire Injury
+108,2025-01-07 20:53:00,8,Low,40,Hospital,Stroke
+109,2025-01-29 17:38:00,101,Moderate,25,Hospital,Fracture
+110,2025-01-03 13:21:00,64,Moderate,25,Citizen,Fire Injury
+111,2025-01-22 00:20:00,4,Low,40,Citizen,Fire Injury
+112,2025-01-14 01:33:00,82,Critical,8,Citizen,Fracture
+113,2025-01-28 00:53:00,59,Low,40,Police Control Room,Fracture
+114,2025-01-02 20:48:00,116,Low,40,Police Control Room,Accident
+115,2025-01-15 15:11:00,64,Low,40,Citizen,Cardiac Arrest
+116,2025-01-21 12:05:00,103,Critical,8,Hospital,Cardiac Arrest
+117,2025-01-23 23:06:00,5,High,15,Citizen,Stroke
+118,2025-01-20 23:57:00,46,High,15,Hospital,Fire Injury
+119,2025-01-18 15:09:00,99,Low,40,Hospital,Fracture
+120,2025-01-03 09:11:00,8,Moderate,25,Hospital,Cardiac Arrest
+121,2025-01-26 09:26:00,36,Low,40,Hospital,Fracture
+122,2025-01-07 20:14:00,10,Moderate,25,Police Control Room,Accident
+123,2025-01-16 22:05:00,83,Moderate,25,Police Control Room,Stroke
+124,2025-01-06 20:50:00,39,Critical,8,Police Control Room,Stroke
+125,2025-01-30 06:51:00,104,Moderate,25,Citizen,Fracture
+126,2025-01-05 06:04:00,65,Low,40,Hospital,Cardiac Arrest
+127,2025-01-17 12:03:00,23,Moderate,25,Citizen,Fire Injury
+128,2025-01-23 03:08:00,28,High,15,Citizen,Accident
+129,2025-01-04 12:17:00,108,Moderate,25,Citizen,Fracture
+130,2025-01-25 13:34:00,84,Critical,8,Hospital,Fracture
+131,2025-01-06 23:08:00,19,Low,40,Citizen,Accident
+132,2025-01-29 10:22:00,92,High,15,Hospital,Cardiac Arrest
+133,2025-01-19 16:46:00,86,Moderate,25,Police Control Room,Accident
+134,2025-01-21 05:11:00,96,Moderate,25,Police Control Room,Stroke
+135,2025-01-11 15:35:00,39,High,15,Hospital,Accident
+136,2025-01-17 17:46:00,59,Low,40,Hospital,Stroke
+137,2025-01-23 21:18:00,20,Low,40,Citizen,Fracture
+138,2025-01-07 07:10:00,6,Moderate,25,Police Control Room,Stroke
+139,2025-01-17 21:27:00,91,Critical,8,Police Control Room,Cardiac Arrest
+140,2025-01-13 23:21:00,97,Critical,8,Citizen,Fire Injury
+141,2025-01-21 10:46:00,106,High,15,Hospital,Cardiac Arrest
+142,2025-01-11 02:31:00,113,Low,40,Hospital,Cardiac Arrest
+143,2025-01-19 21:10:00,50,Critical,8,Police Control Room,Fire Injury
+144,2025-01-11 17:31:00,10,Low,40,Hospital,Accident
+145,2025-01-02 06:47:00,119,Moderate,25,Citizen,Fire Injury
+146,2025-01-07 15:31:00,4,High,15,Hospital,Stroke
+147,2025-01-07 07:35:00,57,Low,40,Police Control Room,Cardiac Arrest
+148,2025-01-04 14:32:00,32,Critical,8,Citizen,Accident
+149,2025-01-25 23:26:00,14,Low,40,Hospital,Accident
+150,2025-01-14 16:56:00,6,Critical,8,Citizen,Stroke
+151,2025-01-30 01:54:00,8,Low,40,Citizen,Stroke
+152,2025-01-28 03:47:00,80,Critical,8,Police Control Room,Fracture
+153,2025-01-12 00:15:00,37,High,15,Hospital,Cardiac Arrest
+154,2025-01-28 23:32:00,30,Moderate,25,Police Control Room,Stroke
+155,2025-01-09 12:35:00,67,Critical,8,Hospital,Cardiac Arrest
+156,2025-01-24 22:35:00,49,Critical,8,Hospital,Cardiac Arrest
+157,2025-01-29 22:19:00,47,Low,40,Hospital,Cardiac Arrest
+158,2025-01-17 06:02:00,44,Critical,8,Citizen,Cardiac Arrest
+159,2025-01-27 11:35:00,17,Moderate,25,Citizen,Fire Injury
+160,2025-01-25 20:23:00,104,Moderate,25,Police Control Room,Accident
+161,2025-01-22 03:29:00,80,Low,40,Citizen,Accident
+162,2025-01-03 20:55:00,4,Low,40,Hospital,Accident
+163,2025-01-02 23:50:00,113,High,15,Citizen,Fire Injury
+164,2025-01-15 02:41:00,104,Low,40,Police Control Room,Stroke
+165,2025-01-12 12:41:00,96,Critical,8,Police Control Room,Accident
+166,2025-01-14 00:30:00,110,Moderate,25,Citizen,Fire Injury
+167,2025-01-13 10:25:00,102,Critical,8,Hospital,Stroke
+168,2025-01-19 04:55:00,114,Low,40,Hospital,Fire Injury
+169,2025-01-09 12:03:00,88,Low,40,Hospital,Fire Injury
+170,2025-01-24 15:11:00,102,Moderate,25,Citizen,Stroke
+171,2025-01-04 14:12:00,77,Low,40,Citizen,Fracture
+172,2025-01-14 08:52:00,13,Moderate,25,Citizen,Fire Injury
+173,2025-01-14 10:55:00,57,Moderate,25,Police Control Room,Stroke
+174,2025-01-08 14:01:00,44,Low,40,Hospital,Cardiac Arrest
+175,2025-01-17 01:05:00,35,Low,40,Police Control Room,Cardiac Arrest
+176,2025-01-04 09:57:00,46,Low,40,Police Control Room,Accident
+177,2025-01-02 10:00:00,108,High,15,Police Control Room,Stroke
+178,2025-01-02 14:00:00,8,High,15,Citizen,Fire Injury
+179,2025-01-17 11:33:00,72,Low,40,Citizen,Fracture
+180,2025-01-07 23:35:00,47,Low,40,Hospital,Stroke
+181,2025-01-04 11:58:00,67,High,15,Hospital,Stroke
+182,2025-01-15 07:23:00,31,Moderate,25,Citizen,Cardiac Arrest
+183,2025-01-09 11:12:00,66,Low,40,Hospital,Fracture
+184,2025-01-06 08:37:00,99,Moderate,25,Hospital,Stroke
+185,2025-01-10 18:22:00,88,Moderate,25,Hospital,Accident
+186,2025-01-06 13:57:00,109,High,15,Citizen,Stroke
+187,2025-01-08 20:35:00,11,Low,40,Police Control Room,Fire Injury
+188,2025-01-16 19:28:00,70,Critical,8,Police Control Room,Fire Injury
+189,2025-01-14 15:37:00,91,High,15,Police Control Room,Accident
+190,2025-01-17 10:50:00,15,High,15,Citizen,Accident
+191,2025-01-11 18:34:00,3,Low,40,Hospital,Fracture
+192,2025-01-27 01:04:00,59,Moderate,25,Police Control Room,Accident
+193,2025-01-28 20:24:00,8,Critical,8,Hospital,Stroke
+194,2025-01-22 18:49:00,98,Low,40,Hospital,Fracture
+195,2025-01-04 08:33:00,40,High,15,Police Control Room,Cardiac Arrest
+196,2025-01-21 11:29:00,87,Low,40,Police Control Room,Fire Injury
+197,2025-01-06 20:10:00,98,High,15,Citizen,Stroke
+198,2025-01-23 21:15:00,106,Critical,8,Citizen,Fracture
+199,2025-01-07 23:08:00,21,Moderate,25,Citizen,Fire Injury
+200,2025-01-11 06:16:00,66,Moderate,25,Hospital,Cardiac Arrest
+201,2025-01-12 09:43:00,81,High,15,Police Control Room,Fire Injury
+202,2025-01-06 16:43:00,78,Moderate,25,Police Control Room,Cardiac Arrest
+203,2025-01-23 20:56:00,75,High,15,Police Control Room,Accident
+204,2025-01-08 18:59:00,107,Moderate,25,Police Control Room,Cardiac Arrest
+205,2025-01-02 06:59:00,5,Critical,8,Police Control Room,Fracture
+206,2025-01-13 01:04:00,98,High,15,Police Control Room,Stroke
+207,2025-01-29 03:08:00,63,Critical,8,Police Control Room,Fracture
+208,2025-01-14 04:23:00,61,Moderate,25,Citizen,Stroke
+209,2025-01-14 12:52:00,9,Low,40,Police Control Room,Cardiac Arrest
+210,2025-01-08 04:39:00,53,Low,40,Hospital,Stroke
+211,2025-01-10 06:50:00,77,Moderate,25,Citizen,Fire Injury
+212,2025-01-15 12:46:00,51,Moderate,25,Citizen,Fire Injury
+213,2025-01-24 10:29:00,40,Critical,8,Citizen,Stroke
+214,2025-01-06 13:49:00,57,Moderate,25,Citizen,Accident
+215,2025-01-05 09:44:00,37,Critical,8,Hospital,Fracture
+216,2025-01-20 00:42:00,110,High,15,Citizen,Fire Injury
+217,2025-01-27 06:59:00,24,Moderate,25,Citizen,Stroke
+218,2025-01-24 10:13:00,63,Low,40,Hospital,Stroke
+219,2025-01-02 01:18:00,50,Critical,8,Police Control Room,Stroke
+220,2025-01-11 22:56:00,74,High,15,Hospital,Cardiac Arrest
+221,2025-01-03 07:12:00,63,Moderate,25,Police Control Room,Stroke
+222,2025-01-14 00:06:00,108,Critical,8,Citizen,Stroke
+223,2025-01-07 02:17:00,93,Moderate,25,Hospital,Stroke
+224,2025-01-17 15:42:00,51,Critical,8,Citizen,Fracture
+225,2025-01-26 13:39:00,46,High,15,Police Control Room,Fire Injury
+226,2025-01-04 08:18:00,64,Low,40,Hospital,Fracture
+227,2025-01-13 17:31:00,16,Critical,8,Citizen,Stroke
+228,2025-01-17 23:37:00,71,Moderate,25,Hospital,Accident
+229,2025-01-10 01:25:00,64,Low,40,Citizen,Cardiac Arrest
+230,2025-01-02 18:30:00,91,High,15,Hospital,Stroke
+231,2025-01-24 15:14:00,19,Low,40,Police Control Room,Fracture
+232,2025-01-07 08:40:00,119,Moderate,25,Police Control Room,Fire Injury
+233,2025-01-08 09:29:00,78,Low,40,Police Control Room,Fire Injury
+234,2025-01-28 00:30:00,64,Moderate,25,Police Control Room,Fracture
+235,2025-01-23 07:02:00,60,Moderate,25,Citizen,Fire Injury
+236,2025-01-16 01:48:00,53,Critical,8,Police Control Room,Fire Injury
+237,2025-01-29 15:19:00,76,Critical,8,Hospital,Fire Injury
+238,2025-01-30 20:04:00,92,High,15,Citizen,Fracture
+239,2025-01-22 20:46:00,67,High,15,Police Control Room,Fracture
+240,2025-01-18 07:16:00,105,High,15,Police Control Room,Accident
+241,2025-01-02 10:29:00,24,Critical,8,Citizen,Stroke
+242,2025-01-15 06:38:00,19,Low,40,Hospital,Accident
+243,2025-01-19 16:14:00,111,Low,40,Police Control Room,Cardiac Arrest
+244,2025-01-07 06:49:00,71,High,15,Hospital,Stroke
+245,2025-01-24 21:57:00,40,Low,40,Citizen,Stroke
+246,2025-01-25 06:19:00,69,Moderate,25,Hospital,Fire Injury
+247,2025-01-28 18:21:00,24,Low,40,Citizen,Fire Injury
+248,2025-01-26 09:34:00,28,Moderate,25,Hospital,Fire Injury
+249,2025-01-10 10:24:00,40,Low,40,Hospital,Fire Injury
+250,2025-01-26 12:12:00,36,Moderate,25,Citizen,Fracture
+251,2025-01-25 17:18:00,114,Low,40,Hospital,Fire Injury
+252,2025-01-07 15:59:00,5,Moderate,25,Hospital,Cardiac Arrest
+253,2025-01-16 18:19:00,83,Low,40,Hospital,Stroke
+254,2025-01-10 17:43:00,105,High,15,Police Control Room,Fire Injury
+255,2025-01-26 13:52:00,17,Moderate,25,Citizen,Fracture
+256,2025-01-27 16:58:00,31,High,15,Citizen,Fracture
+257,2025-01-11 06:29:00,6,High,15,Citizen,Stroke
+258,2025-01-16 00:46:00,12,Low,40,Police Control Room,Accident
+259,2025-01-01 05:39:00,52,High,15,Police Control Room,Stroke
+260,2025-01-22 17:30:00,96,High,15,Hospital,Fire Injury
+261,2025-01-13 23:44:00,116,Critical,8,Citizen,Fracture
+262,2025-01-11 13:38:00,116,Critical,8,Citizen,Stroke
+263,2025-01-09 00:00:00,107,Critical,8,Hospital,Stroke
+264,2025-01-09 11:30:00,112,Moderate,25,Citizen,Cardiac Arrest
+265,2025-01-14 13:55:00,118,Critical,8,Hospital,Fire Injury
+266,2025-01-21 16:16:00,113,Low,40,Citizen,Fracture
+267,2025-01-22 07:12:00,24,Moderate,25,Citizen,Fire Injury
+268,2025-01-08 09:29:00,82,Low,40,Hospital,Accident
+269,2025-01-01 15:23:00,101,Moderate,25,Hospital,Fracture
+270,2025-01-09 18:59:00,78,High,15,Police Control Room,Stroke
+271,2025-01-20 11:09:00,11,Moderate,25,Hospital,Cardiac Arrest
+272,2025-01-09 09:49:00,61,High,15,Hospital,Accident
+273,2025-01-01 07:27:00,49,Moderate,25,Citizen,Stroke
+274,2025-01-13 03:37:00,38,Moderate,25,Police Control Room,Fracture
+275,2025-01-01 12:29:00,83,Moderate,25,Hospital,Accident
+276,2025-01-03 19:51:00,59,Critical,8,Hospital,Accident
+277,2025-01-19 10:49:00,88,Moderate,25,Citizen,Fire Injury
+278,2025-01-17 17:27:00,28,High,15,Citizen,Stroke
+279,2025-01-07 23:19:00,95,Low,40,Police Control Room,Fire Injury
+280,2025-01-19 22:12:00,96,Low,40,Police Control Room,Accident
+281,2025-01-12 06:17:00,67,Critical,8,Hospital,Fracture
+282,2025-01-17 11:09:00,117,Critical,8,Police Control Room,Cardiac Arrest
+283,2025-01-03 19:27:00,73,High,15,Police Control Room,Accident
+284,2025-01-08 11:43:00,109,Moderate,25,Police Control Room,Stroke
+285,2025-01-06 06:57:00,91,High,15,Police Control Room,Stroke
+286,2025-01-05 03:19:00,103,Low,40,Citizen,Stroke
+287,2025-01-07 00:07:00,58,Low,40,Police Control Room,Cardiac Arrest
+288,2025-01-26 10:21:00,86,Low,40,Hospital,Cardiac Arrest
+289,2025-01-19 00:28:00,104,Moderate,25,Citizen,Accident
+290,2025-01-27 07:40:00,5,Critical,8,Hospital,Fire Injury
+291,2025-01-03 21:38:00,119,Critical,8,Citizen,Stroke
+292,2025-01-02 10:39:00,52,Moderate,25,Citizen,Accident
+293,2025-01-30 04:42:00,47,Low,40,Hospital,Stroke
+294,2025-01-18 04:19:00,10,Low,40,Police Control Room,Fracture
+295,2025-01-07 01:15:00,15,Moderate,25,Citizen,Fracture
+296,2025-01-18 21:19:00,93,High,15,Citizen,Cardiac Arrest
+297,2025-01-02 00:49:00,59,Moderate,25,Police Control Room,Fracture
+298,2025-01-20 07:15:00,105,Low,40,Citizen,Accident
+299,2025-01-21 23:07:00,19,Moderate,25,Hospital,Accident
+300,2025-01-06 03:15:00,103,Critical,8,Police Control Room,Stroke
+301,2025-01-28 23:39:00,30,Critical,8,Citizen,Cardiac Arrest
+302,2025-01-05 14:12:00,57,Critical,8,Police Control Room,Cardiac Arrest
+303,2025-01-12 03:18:00,51,Critical,8,Hospital,Accident
+304,2025-01-25 13:33:00,96,High,15,Citizen,Accident
+305,2025-01-23 22:23:00,29,Moderate,25,Police Control Room,Fracture
+306,2025-01-15 12:19:00,30,Moderate,25,Hospital,Accident
+307,2025-01-24 17:20:00,52,High,15,Hospital,Fire Injury
+308,2025-01-03 18:34:00,80,High,15,Police Control Room,Stroke
+309,2025-01-26 07:08:00,6,Low,40,Hospital,Stroke
+310,2025-01-24 20:51:00,89,Moderate,25,Hospital,Stroke
+311,2025-01-07 18:59:00,48,Moderate,25,Citizen,Fracture
+312,2025-01-22 13:12:00,108,High,15,Citizen,Fire Injury
+313,2025-01-07 13:40:00,117,Low,40,Citizen,Fracture
+314,2025-01-19 18:45:00,71,Low,40,Police Control Room,Accident
+315,2025-01-18 16:15:00,32,High,15,Citizen,Fire Injury
+316,2025-01-30 10:22:00,118,Critical,8,Hospital,Fire Injury
+317,2025-01-05 04:59:00,6,High,15,Hospital,Stroke
+318,2025-01-28 12:47:00,111,Critical,8,Citizen,Accident
+319,2025-01-27 17:47:00,61,High,15,Citizen,Fire Injury
+320,2025-01-14 19:09:00,27,Critical,8,Citizen,Cardiac Arrest
+321,2025-01-22 19:06:00,89,High,15,Police Control Room,Accident
+322,2025-01-19 01:13:00,70,High,15,Hospital,Fire Injury
+323,2025-01-18 07:47:00,68,Low,40,Police Control Room,Fire Injury
+324,2025-01-15 00:52:00,46,Moderate,25,Police Control Room,Stroke
+325,2025-01-22 05:00:00,102,Critical,8,Police Control Room,Stroke
+326,2025-01-15 13:46:00,47,High,15,Hospital,Stroke
+327,2025-01-03 01:56:00,94,High,15,Citizen,Cardiac Arrest
+328,2025-01-12 20:50:00,37,Low,40,Citizen,Accident
+329,2025-01-16 00:18:00,48,High,15,Police Control Room,Accident
+330,2025-01-23 17:22:00,32,Moderate,25,Hospital,Stroke
+331,2025-01-21 23:20:00,93,High,15,Hospital,Accident
+332,2025-01-07 08:52:00,23,Low,40,Police Control Room,Cardiac Arrest
+333,2025-01-24 20:17:00,107,Critical,8,Citizen,Cardiac Arrest
+334,2025-01-01 06:58:00,17,Low,40,Police Control Room,Accident
+335,2025-01-04 02:14:00,1,High,15,Citizen,Fracture
+336,2025-01-21 18:05:00,7,Moderate,25,Police Control Room,Fracture
+337,2025-01-22 23:47:00,2,Low,40,Citizen,Fracture
+338,2025-01-26 02:32:00,1,Low,40,Citizen,Fracture
+339,2025-01-13 12:05:00,2,Moderate,25,Police Control Room,Stroke
+340,2025-01-09 03:48:00,117,Critical,8,Citizen,Fracture
+341,2025-01-07 18:38:00,24,High,15,Police Control Room,Fracture
+342,2025-01-12 11:42:00,34,Moderate,25,Hospital,Cardiac Arrest
+343,2025-01-17 23:28:00,58,Low,40,Police Control Room,Accident
+344,2025-01-11 06:41:00,87,Moderate,25,Citizen,Cardiac Arrest
+345,2025-01-05 06:07:00,48,Low,40,Hospital,Fracture
+346,2025-01-22 15:55:00,81,Critical,8,Citizen,Accident
+347,2025-01-04 18:18:00,108,Low,40,Hospital,Fire Injury
+348,2025-01-26 18:03:00,114,Critical,8,Police Control Room,Cardiac Arrest
+349,2025-01-11 10:57:00,115,High,15,Police Control Room,Fracture
+350,2025-01-22 15:22:00,5,Moderate,25,Citizen,Fire Injury
+351,2025-01-25 17:08:00,22,Critical,8,Hospital,Cardiac Arrest
+352,2025-01-10 10:16:00,96,High,15,Police Control Room,Stroke
+353,2025-01-04 12:02:00,20,Moderate,25,Police Control Room,Accident
+354,2025-01-26 18:58:00,86,Low,40,Police Control Room,Fire Injury
+355,2025-01-18 11:15:00,101,High,15,Police Control Room,Cardiac Arrest
+356,2025-01-23 18:59:00,6,Moderate,25,Citizen,Stroke
+357,2025-01-11 13:33:00,43,Critical,8,Police Control Room,Fracture
+358,2025-01-28 02:33:00,99,Low,40,Hospital,Cardiac Arrest
+359,2025-01-29 20:37:00,100,Moderate,25,Hospital,Stroke
+360,2025-01-11 09:11:00,70,Moderate,25,Hospital,Stroke
+361,2025-01-09 10:52:00,10,Low,40,Police Control Room,Fire Injury
+362,2025-01-12 05:11:00,10,Critical,8,Hospital,Accident
+363,2025-01-18 07:03:00,94,High,15,Hospital,Fire Injury
+364,2025-01-17 09:58:00,11,Critical,8,Citizen,Fire Injury
+365,2025-01-21 05:46:00,97,Moderate,25,Hospital,Cardiac Arrest
+366,2025-01-07 00:43:00,23,Critical,8,Hospital,Stroke
+367,2025-01-26 08:22:00,13,Low,40,Citizen,Cardiac Arrest
+368,2025-01-17 02:34:00,76,Critical,8,Police Control Room,Fire Injury
+369,2025-01-18 12:46:00,37,Critical,8,Hospital,Stroke
+370,2025-01-04 20:30:00,73,High,15,Police Control Room,Accident
+371,2025-01-18 07:51:00,17,High,15,Hospital,Fire Injury
+372,2025-01-13 05:10:00,18,Low,40,Citizen,Accident
+373,2025-01-20 18:46:00,53,Moderate,25,Hospital,Stroke
+374,2025-01-04 12:01:00,32,Moderate,25,Citizen,Stroke
+375,2025-01-28 00:35:00,58,High,15,Citizen,Accident
+376,2025-01-14 20:46:00,50,Critical,8,Hospital,Fracture
+377,2025-01-18 06:56:00,56,Moderate,25,Hospital,Stroke
+378,2025-01-30 15:06:00,38,High,15,Hospital,Fracture
+379,2025-01-10 03:23:00,40,Low,40,Citizen,Stroke
+380,2025-01-15 12:35:00,94,Moderate,25,Police Control Room,Stroke
+381,2025-01-27 05:00:00,41,High,15,Hospital,Fire Injury
+382,2025-01-18 21:11:00,14,Moderate,25,Police Control Room,Accident
+383,2025-01-27 22:52:00,87,High,15,Police Control Room,Cardiac Arrest
+384,2025-01-22 00:12:00,56,High,15,Hospital,Cardiac Arrest
+385,2025-01-19 14:53:00,17,Low,40,Police Control Room,Fire Injury
+386,2025-01-12 00:21:00,84,Moderate,25,Citizen,Stroke
+387,2025-01-18 03:46:00,57,Critical,8,Police Control Room,Stroke
+388,2025-01-27 11:57:00,68,Low,40,Police Control Room,Stroke
+389,2025-01-25 17:48:00,101,Critical,8,Hospital,Fracture
+390,2025-01-28 00:36:00,13,Critical,8,Citizen,Fire Injury
+391,2025-01-08 13:41:00,72,Critical,8,Police Control Room,Stroke
+392,2025-01-16 02:11:00,13,Low,40,Citizen,Cardiac Arrest
+393,2025-01-12 18:36:00,65,High,15,Police Control Room,Fracture
+394,2025-01-26 09:28:00,57,High,15,Hospital,Stroke
+395,2025-01-22 01:47:00,44,High,15,Citizen,Stroke
+396,2025-01-05 18:11:00,53,Moderate,25,Citizen,Cardiac Arrest
+397,2025-01-07 10:44:00,39,Moderate,25,Hospital,Stroke
+398,2025-01-10 09:57:00,44,Low,40,Hospital,Cardiac Arrest
+399,2025-01-20 22:35:00,40,Low,40,Citizen,Fire Injury
+400,2025-01-03 00:48:00,2,Critical,8,Hospital,Cardiac Arrest
+401,2025-01-08 11:31:00,66,High,15,Citizen,Fracture
+402,2025-01-08 06:54:00,71,Moderate,25,Hospital,Stroke
+403,2025-01-11 13:14:00,80,Low,40,Citizen,Accident
+404,2025-01-30 03:34:00,50,Low,40,Citizen,Fracture
+405,2025-01-09 23:31:00,75,Low,40,Hospital,Stroke
+406,2025-01-01 04:51:00,26,High,15,Hospital,Cardiac Arrest
+407,2025-01-27 06:37:00,102,Critical,8,Police Control Room,Accident
+408,2025-01-17 15:32:00,25,Moderate,25,Hospital,Cardiac Arrest
+409,2025-01-12 22:33:00,67,Low,40,Police Control Room,Fire Injury
+410,2025-01-28 04:03:00,78,Low,40,Hospital,Fracture
+411,2025-01-06 04:46:00,45,Moderate,25,Hospital,Fracture
+412,2025-01-08 20:26:00,117,Moderate,25,Police Control Room,Fracture
+413,2025-01-04 20:34:00,40,High,15,Citizen,Accident
+414,2025-01-14 21:33:00,23,Critical,8,Hospital,Accident
+415,2025-01-24 05:57:00,53,Low,40,Police Control Room,Accident
+416,2025-01-27 03:50:00,54,Low,40,Citizen,Stroke
+417,2025-01-29 22:08:00,71,High,15,Citizen,Stroke
+418,2025-01-14 03:29:00,23,High,15,Hospital,Stroke
+419,2025-01-29 04:33:00,110,Critical,8,Hospital,Cardiac Arrest
+420,2025-01-23 01:19:00,24,High,15,Hospital,Fracture
+421,2025-01-24 00:04:00,52,Low,40,Police Control Room,Stroke
+422,2025-01-19 21:58:00,62,Low,40,Citizen,Cardiac Arrest
+423,2025-01-26 17:33:00,101,Critical,8,Citizen,Fire Injury
+424,2025-01-02 11:42:00,28,Moderate,25,Police Control Room,Fire Injury
+425,2025-01-08 15:43:00,72,Low,40,Police Control Room,Stroke
+426,2025-01-26 00:26:00,73,Critical,8,Citizen,Fire Injury
+427,2025-01-25 17:13:00,69,Moderate,25,Citizen,Stroke
+428,2025-01-25 20:45:00,54,High,15,Citizen,Accident
+429,2025-01-14 13:10:00,57,Critical,8,Hospital,Fire Injury
+430,2025-01-04 23:00:00,110,Low,40,Citizen,Accident
+431,2025-01-10 13:14:00,110,Moderate,25,Police Control Room,Fracture
+432,2025-01-29 19:09:00,21,Low,40,Police Control Room,Accident
+433,2025-01-10 09:41:00,103,High,15,Citizen,Fracture
+434,2025-01-16 23:11:00,76,Moderate,25,Police Control Room,Accident
+435,2025-01-15 17:30:00,37,Moderate,25,Police Control Room,Fire Injury
+436,2025-01-24 09:52:00,17,Critical,8,Hospital,Cardiac Arrest
+437,2025-01-13 14:54:00,89,High,15,Citizen,Accident
+438,2025-01-07 15:44:00,106,Moderate,25,Citizen,Stroke
+439,2025-01-23 06:37:00,73,High,15,Police Control Room,Fire Injury
+440,2025-01-29 13:44:00,48,Low,40,Hospital,Cardiac Arrest
+441,2025-01-29 20:05:00,51,Critical,8,Police Control Room,Fire Injury
+442,2025-01-17 19:07:00,62,Low,40,Hospital,Fracture
+443,2025-01-01 02:42:00,93,Critical,8,Hospital,Fire Injury
+444,2025-01-03 21:10:00,27,Low,40,Hospital,Accident
+445,2025-01-23 12:21:00,41,Moderate,25,Hospital,Fire Injury
+446,2025-01-25 21:48:00,72,High,15,Hospital,Fire Injury
+447,2025-01-03 04:52:00,12,Critical,8,Police Control Room,Stroke
+448,2025-01-01 17:47:00,118,Critical,8,Citizen,Stroke
+449,2025-01-21 18:38:00,54,Critical,8,Citizen,Accident
+450,2025-01-30 13:58:00,20,Moderate,25,Hospital,Cardiac Arrest
+451,2025-01-30 18:59:00,32,Moderate,25,Citizen,Fire Injury
+452,2025-01-30 12:47:00,6,High,15,Hospital,Fire Injury
+453,2025-01-11 15:44:00,83,Low,40,Citizen,Cardiac Arrest
+454,2025-01-01 01:11:00,61,High,15,Citizen,Accident
+455,2025-01-28 00:27:00,66,High,15,Police Control Room,Stroke
+456,2025-01-01 10:08:00,89,Critical,8,Hospital,Cardiac Arrest
+457,2025-01-20 05:16:00,61,High,15,Citizen,Accident
+458,2025-01-18 10:24:00,93,Critical,8,Citizen,Cardiac Arrest
+459,2025-01-15 06:15:00,112,Moderate,25,Hospital,Accident
+460,2025-01-18 10:02:00,82,High,15,Police Control Room,Accident
+461,2025-01-04 02:43:00,78,Critical,8,Police Control Room,Accident
+462,2025-01-21 00:42:00,92,Moderate,25,Citizen,Accident
+463,2025-01-19 17:41:00,110,Low,40,Citizen,Cardiac Arrest
+464,2025-01-05 13:44:00,96,High,15,Citizen,Fracture
+465,2025-01-18 11:27:00,54,Moderate,25,Hospital,Accident
+466,2025-01-12 06:38:00,82,Moderate,25,Citizen,Accident
+467,2025-01-26 04:27:00,99,Moderate,25,Police Control Room,Cardiac Arrest
+468,2025-01-30 23:09:00,26,Moderate,25,Police Control Room,Fracture
+469,2025-01-24 04:32:00,95,High,15,Hospital,Fire Injury
+470,2025-01-30 09:47:00,100,Critical,8,Citizen,Stroke
+471,2025-01-18 13:29:00,30,Critical,8,Hospital,Fracture
+472,2025-01-04 05:33:00,46,Critical,8,Hospital,Accident
+473,2025-01-18 14:31:00,46,Low,40,Police Control Room,Accident
+474,2025-01-22 10:28:00,2,Critical,8,Police Control Room,Cardiac Arrest
+475,2025-01-01 15:03:00,27,Moderate,25,Citizen,Cardiac Arrest
+476,2025-01-19 02:41:00,80,Moderate,25,Police Control Room,Fracture
+477,2025-01-19 21:45:00,89,Low,40,Hospital,Cardiac Arrest
+478,2025-01-30 03:38:00,35,High,15,Citizen,Fire Injury
+479,2025-01-04 14:18:00,103,High,15,Citizen,Fracture
+480,2025-01-15 20:53:00,75,Low,40,Police Control Room,Cardiac Arrest
+481,2025-01-15 02:47:00,93,Low,40,Citizen,Cardiac Arrest
+482,2025-01-12 03:02:00,118,Critical,8,Hospital,Cardiac Arrest
+483,2025-01-21 15:12:00,39,Critical,8,Police Control Room,Accident
+484,2025-01-06 10:27:00,90,Critical,8,Citizen,Cardiac Arrest
+485,2025-01-08 10:56:00,44,Low,40,Police Control Room,Fracture
+486,2025-01-12 19:10:00,47,High,15,Citizen,Fire Injury
+487,2025-01-06 08:56:00,42,Critical,8,Hospital,Fire Injury
+488,2025-01-24 20:11:00,33,Critical,8,Police Control Room,Fracture
+489,2025-01-29 13:25:00,63,Critical,8,Hospital,Fracture
+490,2025-01-17 09:21:00,63,Critical,8,Police Control Room,Accident
+491,2025-01-17 17:36:00,32,High,15,Citizen,Fracture
+492,2025-01-06 05:58:00,94,High,15,Police Control Room,Cardiac Arrest
+493,2025-01-03 00:06:00,31,Critical,8,Citizen,Stroke
+494,2025-01-17 13:33:00,117,Low,40,Citizen,Accident
+495,2025-01-02 14:37:00,28,Low,40,Hospital,Accident
+496,2025-01-19 22:39:00,34,Moderate,25,Citizen,Fracture
+497,2025-01-17 23:12:00,64,Critical,8,Police Control Room,Cardiac Arrest
+498,2025-01-09 03:53:00,102,High,15,Police Control Room,Cardiac Arrest
+499,2025-01-19 05:55:00,112,Critical,8,Hospital,Fire Injury
