@@ -1,5 +1,5 @@
 ambulance_id,current_node,base_station,status,speed_factor,fuel_level_percent,crew_count
-1,74,10,Available,1.0,63,2
+1,74,10,Available,1,63,2
 2,60,79,Available,1.01,59,2
 3,66,103,Available,1.04,76,3
 4,5,22,OnDuty,0.95,43,2

@@ -1,6 +1,6 @@
 import heapq
 from collections import defaultdict
-import random
+from datetime import datetime, timedelta
 
 class CityGraph:
     def __init__(self):
@@ -66,7 +66,6 @@ class DispatchSystem:
         - service_time_min used to set available_until = current_time + travel + service.
         Returns (ambulance, distance_weight, travel_time_min) or None.
         """
-        from datetime import datetime, timedelta
         if current_time is None:
             current_time = datetime.now()
 
@@ -117,4 +116,3 @@ class DispatchSystem:
             if make_available:
                 amb.status = "Available"
                 amb.available_until = None
-
